@@ -33,30 +33,12 @@ proxies:
   udp: true
   sni: gw.alicdn.com
   skip-cert-verify: true
-- name: meta_ssr_01
-  type: ssr
-  server: 108.181.22.133
-  port: 30002
-  password: dongtaiwang.com
-  cipher: dummy
-  obfs: plain
-  protocol: auth_chain_a
-- name: meta_ssr_02
-  type: ssr
-  server: 108.181.22.133
-  port: 30003
-  password: dongtaiwang.com
-  cipher: dummy
-  obfs: plain
-  protocol: auth_chain_a
-- name: meta_ssr_03
-  type: ssr
-  server: 108.181.22.133
-  port: 30004
-  password: dongtaiwang.com
-  cipher: dummy
-  obfs: plain
-  protocol: auth_chain_a
+- name: meta_ss_01
+  type: ss
+  server: 108.181.22.130
+  port: 11256
+  cipher: 2022-blake3-chacha20-poly1305
+  password: +/b6Q+CbYg8b823kivADeViRHa7kdBprvhpyTk15QpY=
 - name: meta_hysteria_11
   type: hysteria
   server: clash1.dtku47.xyz
@@ -67,14 +49,16 @@ proxies:
   protocol: udp
   up: 80
   down: 100
-- name: meta_ssr_21
-  type: ssr
-  server: 108.181.22.133
-  port: 30002
-  password: dongtaiwang.com
-  cipher: dummy
-  obfs: plain
-  protocol: auth_chain_a
+- name: meta_hysteria_21
+  type: hysteria
+  server: hy1.dtku47.xyz
+  port: 11257
+  auth-str: oO5q7L6QPSuJ
+  alpn:
+  - h3
+  protocol: udp
+  up: 80
+  down: 100
 - name: meta_tuic_31
   server: tuic1.dtku47.xyz
   port: 22336
@@ -86,14 +70,16 @@ proxies:
   request-timeout: 8000
   udp-relay-mode: native
   congestion-controller: bbr
-- name: meta_ssr_41
-  type: ssr
-  server: 108.181.22.133
-  port: 30002
-  password: dongtaiwang.com
-  cipher: dummy
-  obfs: plain
-  protocol: auth_chain_a
+- name: meta_hysteria_41
+  type: hysteria
+  server: hy1.dtku47.xyz
+  port: 11257
+  auth-str: oO5q7L6QPSuJ
+  alpn:
+  - h3
+  protocol: udp
+  up: 80
+  down: 100
 - name: meta_tuic_51
   server: tuic1.dtku47.xyz
   port: 22336
@@ -258,13 +244,11 @@ proxy-groups:
   - 自动选择
   - DIRECT
   - 油管-绵阿羊
-  - meta_ssr_01
-  - meta_ssr_02
-  - meta_ssr_03
+  - meta_ss_01
   - meta_hysteria_11
-  - meta_ssr_21
+  - meta_hysteria_21
   - meta_tuic_31
-  - meta_ssr_41
+  - meta_hysteria_41
   - meta_tuic_51
   - meta_ss_61
   - meta_hysteria_71
@@ -286,13 +270,11 @@ proxy-groups:
   tolerance: 50
   proxies:
   - 油管-绵阿羊
-  - meta_ssr_01
-  - meta_ssr_02
-  - meta_ssr_03
+  - meta_ss_01
   - meta_hysteria_11
-  - meta_ssr_21
+  - meta_hysteria_21
   - meta_tuic_31
-  - meta_ssr_41
+  - meta_hysteria_41
   - meta_tuic_51
   - meta_ss_61
   - meta_hysteria_71
