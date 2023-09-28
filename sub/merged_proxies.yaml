@@ -218,7 +218,7 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: reality_1
+- name: reality_0
   type: vless
   server: 108.181.22.140
   port: 23694
@@ -257,7 +257,7 @@ proxy-groups:
   - hysteria2_1
   - hysteria2_2
   - hysteria2_3
-  - reality_1
+  - reality_0
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -283,7 +283,7 @@ proxy-groups:
   - hysteria2_1
   - hysteria2_2
   - hysteria2_3
-  - reality_1
+  - reality_0
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
