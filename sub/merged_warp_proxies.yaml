@@ -193,14 +193,14 @@ proxies:
 - name: hysteria_3
   type: hysteria
   server: 51.158.54.46
-  port: 49139
-  ports: 49139
-  auth_str: dongtaiwang.com
+  port: 11926
+  ports: 11926
+  auth_str: Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs
   up: 80
   down: 100
   fast-open: true
   protocol: udp
-  sni: www.paypal.com
+  sni: youku.com
   skip-cert-verify: true
   alpn:
   - h3
