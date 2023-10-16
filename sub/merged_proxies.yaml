@@ -201,8 +201,8 @@ proxies:
 - name: hysteria2_0
   type: hysteria2
   server: 108.181.22.155
-  port: 17965
-  password: 4f58555f
+  port: 46728
+  password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
