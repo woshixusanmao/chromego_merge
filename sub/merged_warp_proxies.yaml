@@ -217,6 +217,14 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
+- name: hysteria2_0
+  type: hysteria2
+  server: www.dtku48.xyz
+  port: 35814
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
 - name: hysteria2_1
   type: hysteria2
   server: 108.181.22.155
@@ -235,8 +243,8 @@ proxies:
   skip-cert-verify: true
 - name: hysteria2_3
   type: hysteria2
-  server: www.dtku48.xyz
-  port: 14847
+  server: 108.181.22.155
+  port: 56091
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -292,6 +300,7 @@ proxy-groups:
   - hysteria_1
   - hysteria_2
   - hysteria_3
+  - hysteria2_0
   - hysteria2_1
   - hysteria2_2
   - hysteria2_3
@@ -314,6 +323,7 @@ proxy-groups:
   - hysteria_1
   - hysteria_2
   - hysteria_3
+  - hysteria2_0
   - hysteria2_1
   - hysteria2_2
   - hysteria2_3
@@ -336,6 +346,7 @@ proxy-groups:
   - hysteria_1
   - hysteria_2
   - hysteria_3
+  - hysteria2_0
   - hysteria2_1
   - hysteria2_2
   - hysteria2_3
