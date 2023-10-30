@@ -7,8 +7,8 @@ hysteria://108.181.22.239:17727?peer=youku.com&auth=7YxfKsXdTnB226S8j4OjaA9M0nLc
 hysteria://173.234.25.52:20164?peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
 hysteria://109.104.152.149:48406?peer=www.amazon.cn&auth=xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
 hysteria://51.158.54.46:11926?peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
-hysteria2://dongtaiwang.com@www.dtku48.xyz:7483?insecure=1&sni=www.bing.com#hysteria2_0
+hysteria2://dongtaiwang.com@www.dtku46.xyz:13579?insecure=1&sni=www.bing.com#hysteria2_0
 hysteria2://dongtaiwang.com@108.181.22.155:56091?insecure=1&sni=www.bing.com#hysteria2_1
-hysteria2://dongtaiwang.com@www.dtku46.xyz:13579?insecure=1&sni=www.bing.com#hysteria2_2
+hysteria2://dongtaiwang.com@www.dtku48.xyz:7483?insecure=1&sni=www.bing.com#hysteria2_2
 hysteria2://dongtaiwang.com@108.181.22.155:56091?insecure=1&sni=www.bing.com#hysteria2_3
 vless://a2971a3e-d013-47b2-93c8-2ff2a4bcff2a@109.104.152.156:16717?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=ydGuypY0EPIAxMpi8L-yhWBtjyavZbtwo9JJk2K5G0Y&sni=aod.itunes.apple.com&spx=&sid=6ba85179e30d4fc2#REALITY3
