@@ -1,4 +1,5 @@
 hysteria://www.dtku50.xyz:43250?peer=bing.com&auth=2S9M5Gs0pgRsaTObNghoLZx6wPkBJOGTFWvf4R06Us5hUNtfr7&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=43250&obfs=&protocol=udp&fastopen=1#hysteria7
+vless://89a3befc-045b-4287-8b9f-f51c455f93be@45.150.165.121:10306?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=ec05-gX8GbyAZaJ72G4AWIadOsDk2_sZCDliuHZnwBc&sni=mensura.cdn-apple.com#reality_meta8
 hysteria://www3.dtku49.xyz:58693?peer=bing.com&auth=nbdyVMqucpFMmyRiwcRQFI7EeKzJWjPYuks3ZzEhCv6HjeZvbh&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=58693&obfs=&protocol=udp&fastopen=1#hysteria9
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUB3d3cuZHRrdTQ4Lnh5ejo0NDM=
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE2LmNmY2RuMy54eXo6NDQz
