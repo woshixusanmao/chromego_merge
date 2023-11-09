@@ -1,3 +1,4 @@
+hysteria://www2.dtku49.xyz:37363?peer=www.microsoft.com&auth=n8Paxd1Uad5wisPoT6i43lrerK1O5iQRfHnbI3RRsIrbdkyLZP&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=37363&obfs=&protocol=udp&fastopen=1#hysteria6
 hysteria://www.dtku50.xyz:14751?peer=www.microsoft.com&auth=6qSZyyl4eTT8hqPMQxdhIgpxQfTyW1Oq6GBwQVhA2vBOw7QIGY&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=14751&obfs=&protocol=udp&fastopen=1#hysteria7
 hysteria://62.204.54.81:37899?peer=www.microsoft.com&auth=OdHFS3zC3HlSYJmc0GLQNKLAlwDbJqEmonVBXmI07T0Ojb1bQB&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=37899&obfs=&protocol=udp&fastopen=1#hysteria8
 hysteria://www3.dtku49.xyz:58693?peer=bing.com&auth=nbdyVMqucpFMmyRiwcRQFI7EeKzJWjPYuks3ZzEhCv6HjeZvbh&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=58693&obfs=&protocol=udp&fastopen=1#hysteria9
