@@ -1,7 +1,7 @@
 hysteria://www.dtku50.xyz:23577?peer=www.amazon.cn&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=23577&obfs=&protocol=udp&fastopen=1#hysteria7
-hysteria://62.204.54.81:42691?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=42691&obfs=&protocol=udp&fastopen=1#hysteria9
+hysteria://62.204.54.81:46333?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=46333&obfs=&protocol=udp&fastopen=1#hysteria9
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE4LmNmY2RuMy54eXo6NDQz
-http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE2LmNmY2RuMy54eXo6NDQz
+http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE0LmNmY2RuMy54eXo6NDQz
 hysteria://167.160.91.115:41189?peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
 hysteria://173.234.25.52:20164?peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
 hysteria://108.181.22.239:39967?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
