@@ -1,6 +1,6 @@
 hysteria://www.dtku50.xyz:56252?peer=www.amazon.cn&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=56252&obfs=&protocol=udp&fastopen=1#hysteria7
 hysteria://62.204.54.81:46333?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=46333&obfs=&protocol=udp&fastopen=1#hysteria9
-naive+https://dongtaiwang.com:dongtaiwang.com@naive18.cfcdn3.xyz:443
+naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
 hysteria://167.160.91.115:41189?peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
 hysteria://173.234.25.52:20164?peer=www.microsoft.com&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
