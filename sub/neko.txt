@@ -1,5 +1,5 @@
 hysteria://www.dtku50.xyz:32408?peer=www.amazon.cn&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=32408&obfs=&protocol=udp&fastopen=1#hysteria7
-hysteria://62.204.54.81:44550?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=44550&obfs=&protocol=udp&fastopen=1#hysteria9
+hysteria://62.204.54.81:62946?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=62946&obfs=&protocol=udp&fastopen=1#hysteria9
 naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@www.dtku50.xyz:443
 hysteria://167.160.91.115:41189?peer=www.amazon.cn&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
