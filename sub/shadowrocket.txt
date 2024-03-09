@@ -1,5 +1,4 @@
 hysteria://www.dtku50.xyz:18470?peer=www.amazon.cn&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=18470&obfs=&protocol=udp&fastopen=1#hysteria7
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUlINHJCYXVVdU9UNFZwQXNoZ01QTVNRM1RmK29KakRZL2pFRGJJZWwyUT1AMTcyLjgzLjE1Ni4xNTc6NDQ1NTA=?shadow-tls=eyJ2ZXJzaW9uIjogIjEiLCAiaG9zdCI6ICJuaWppZ2VuLXdvcmtzLmpwIn0=#shadowtls0
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE5LmNmY2RuMy54eXo6NDQz
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUB3d3cuZHRrdTUwLnh5ejo0NDM=
 hysteria://51.158.54.46:55396?peer=youku.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
