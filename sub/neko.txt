@@ -5,7 +5,7 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjQ4IiwgImFpZCI6IDAsICJob3N0IjogImR1YWwtbm90aGlu
 vless://85beb960-236b-4634-81ce-6ad66652f928@109.104.152.101:13982?security=reality&flow=None&type=tcp&fp=chrome&pbk=HjmsLPRaQqSqtdMMpIpmpoJOKhC0rAOUCHXnz0E89RE&sni=itunes.apple.com#reality_meta9
 naive+https://dongtaiwang.com:dongtaiwang.com@naive19.cfcdn3.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@www.dtku50.xyz:443
-hysteria://108.181.5.133:26022?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
+hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
 hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
 hysteria://109.104.152.194:58510?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
