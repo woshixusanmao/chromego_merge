@@ -186,7 +186,7 @@ proxies:
       down: 55
 - name: meta_vmess_81
   type: vmess
-  server: 162.159.129.111
+  server: 104.16.149.222
   port: 2095
   uuid: e9555d84-a146-4e36-9c23-eac28387be48
   alterId: 0
@@ -201,7 +201,7 @@ proxies:
       Host: ip5.freegradely.xyz
 - name: meta_vmess_82
   type: vmess
-  server: 162.159.136.208
+  server: 23.227.38.8
   port: 2095
   uuid: e9555d84-a146-4e36-9c23-eac28387be48
   alterId: 0
