@@ -5,7 +5,7 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjQ4IiwgImFpZCI6IDAsICJob3N0IjogImR1YWwtbm90aGlu
 hysteria://23.170.40.77:30009?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&mport=30009&obfs=&protocol=udp&fastopen=1#hysteria7
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE5LmNmY2RuMy54eXo6NDQz
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUB3d3cuZHRrdTUwLnh5ejo0NDM=
-hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
-hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
-hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
-hysteria://62.210.243.131:18702?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
+hysteria://104.192.224.139:42113?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
+hysteria://104.192.224.139:42113?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
+hysteria://104.192.224.139:42113?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
+hysteria://104.192.224.139:42113?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
