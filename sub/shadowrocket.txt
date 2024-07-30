@@ -4,7 +4,7 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjI4IiwgImFpZCI6IDAsICJob3N0IjogImR1YWwtbm90aGlu
 vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjQ4IiwgImFpZCI6IDAsICJob3N0IjogImR1YWwtbm90aGluZy1wcmVwLWV4aXQudHJ5Y2xvdWRmbGFyZS5jb20iLCAiaWQiOiAiZWY4Yzk1NGUtMDE0Zi00YjM2LTgyNzMtOWI1MDg2YWZhYjM0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsICJwb3J0IjogODA4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkdWFsLW5vdGhpbmctcHJlcC1leGl0LnRyeWNsb3VkZmxhcmUuY29tIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUBuYWl2ZTE5LmNmY2RuMy54eXo6NDQz
 http2://ZG9uZ3RhaXdhbmcuY29tOmRvbmd0YWl3YW5nLmNvbUB3d3cuZHRrdTUwLnh5ejo0NDM=
-hysteria://38.135.52.192:23456?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria0
-hysteria://38.135.52.192:23456?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria1
-hysteria://38.135.52.192:23456?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria2
-hysteria://38.135.52.192:23456?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria3
+hysteria://38.135.52.192:10451,30000-40000?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria0
+hysteria://38.135.52.192:10451,30000-40000?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria1
+hysteria://38.135.52.192:10451,30000-40000?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria2
+hysteria://38.135.52.192:10451,30000-40000?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
