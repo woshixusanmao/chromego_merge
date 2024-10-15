@@ -9,5 +9,3 @@ hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmb
 hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria1
 hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria2
 hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria3
-vless://47b8b611-9e64-4d59-a1ef-b51b3ffc0cae@108.181.3.68:52562?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=qvdphcXh7EkRcfJ7XXB5v0KH9e2RqZQhL2QNyLQdsm8&sni=www.amazon.com&spx=&sid=#REALITY0
-vless://47b8b611-9e64-4d59-a1ef-b51b3ffc0cae@108.181.3.68:52562?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=qvdphcXh7EkRcfJ7XXB5v0KH9e2RqZQhL2QNyLQdsm8&sni=www.amazon.com&spx=&sid=#REALITY3
