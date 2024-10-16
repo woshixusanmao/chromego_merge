@@ -161,50 +161,62 @@ proxies:
   protocol: udp
   up: 80
   down: 100
-- name: meta_hysteria_61
-  type: hysteria
+- name: meta_vless_61
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
-- name: meta_hysteria_71
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: meta_vless_71
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
-- name: meta_hysteria_81
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: meta_vless_81
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
-- name: meta_hysteria_91
-  type: hysteria
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
+- name: meta_vless_91
+  type: vless
   server: 46.29.166.206
-  port: 100
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
+  port: 400
+  uuid: ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: www.paypal.com
+  reality-opts:
+    public-key: bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI
+    short-id: ''
+  client-fingerprint: chrome
 - name: hysteria_0
   type: hysteria
   server: 62.210.8.63
@@ -293,10 +305,10 @@ proxy-groups:
   - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
-  - meta_hysteria_61
-  - meta_hysteria_71
-  - meta_hysteria_81
-  - meta_hysteria_91
+  - meta_vless_61
+  - meta_vless_71
+  - meta_vless_81
+  - meta_vless_91
   - hysteria_0
   - hysteria_1
   - hysteria_2
@@ -314,10 +326,10 @@ proxy-groups:
   - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
-  - meta_hysteria_61
-  - meta_hysteria_71
-  - meta_hysteria_81
-  - meta_hysteria_91
+  - meta_vless_61
+  - meta_vless_71
+  - meta_vless_81
+  - meta_vless_91
   - hysteria_0
   - hysteria_1
   - hysteria_2
@@ -335,10 +347,10 @@ proxy-groups:
   - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
-  - meta_hysteria_61
-  - meta_hysteria_71
-  - meta_hysteria_81
-  - meta_hysteria_91
+  - meta_vless_61
+  - meta_vless_71
+  - meta_vless_81
+  - meta_vless_91
   - hysteria_0
   - hysteria_1
   - hysteria_2
