@@ -8,10 +8,10 @@ vless://ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2@46.29.166.206:400?security=reality&
 vless://ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2@46.29.166.206:400?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI&sni=www.paypal.com#reality_meta9
 naive+https://dongtaiwang.com:dongtaiwang.com@naive23.cfcdn3.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive24.cfcdn3.xyz:443
-hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria0
-hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria1
-hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria2
-hysteria://46.17.43.223:12311?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria3
+hysteria://46.17.43.223:23142?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria0
+hysteria://46.17.43.223:23142?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria1
+hysteria://46.17.43.223:23142?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria2
+hysteria://46.17.43.223:23142?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria3
 hysteria2://dongtaiwang.com@185.22.152.93:47382,20000-30000?insecure=1&sni=www.bing.com#hysteria2_0
 hysteria2://dongtaiwang.com@185.22.152.93:47382,20000-30000?insecure=1&sni=www.bing.com#hysteria2_1
 hysteria2://dongtaiwang.com@185.22.152.93:47382,20000-30000?insecure=1&sni=www.bing.com#hysteria2_2
