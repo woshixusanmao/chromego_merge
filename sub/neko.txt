@@ -6,7 +6,7 @@ vless://ef6706c2-ac66-4c39-bf16-208effa86922@46.29.166.206:49887?security=realit
 vless://ef6706c2-ac66-4c39-bf16-208effa86922@46.29.166.206:49887?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bBX2IBet-d-kWJ7sb_49zVaem3iTAw5jIwQL4JGDuEg&sni=www.paypal.com#reality_meta7
 vless://ef6706c2-ac66-4c39-bf16-208effa86922@46.29.166.206:49887?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bBX2IBet-d-kWJ7sb_49zVaem3iTAw5jIwQL4JGDuEg&sni=www.paypal.com#reality_meta8
 vless://ef6706c2-ac66-4c39-bf16-208effa86922@46.29.166.206:49887?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bBX2IBet-d-kWJ7sb_49zVaem3iTAw5jIwQL4JGDuEg&sni=www.paypal.com#reality_meta9
-naive+https://dongtaiwang.com:dongtaiwang.com@naive24.cfcdn3.xyz:443
+naive+https://dongtaiwang.com:dongtaiwang.com@naive23.cfcdn3.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive24.cfcdn3.xyz:443
 hysteria://46.17.43.223:64907,30000-40000?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria0
 hysteria://46.17.43.223:12345?peer=bing.com&auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=100&alpn=h3&obfs=dongtaiwang.com&protocol=udp&fastopen=1#hysteria1
