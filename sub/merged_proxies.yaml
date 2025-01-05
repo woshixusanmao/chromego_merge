@@ -249,7 +249,7 @@ proxies:
   - h3
 - name: reality_0
   type: vless
-  server: 1.162.18.226
+  server: 1.162.51.106
   port: 37898
   uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
   network: tcp
@@ -263,7 +263,7 @@ proxies:
     short-id: e12d7fdb
 - name: reality_1
   type: vless
-  server: 1.162.18.226
+  server: 1.162.51.106
   port: 37898
   uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
   network: tcp
@@ -277,7 +277,7 @@ proxies:
     short-id: e12d7fdb
 - name: reality_2
   type: vless
-  server: 1.162.18.226
+  server: 1.162.51.106
   port: 37898
   uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
   network: tcp
@@ -291,7 +291,7 @@ proxies:
     short-id: e12d7fdb
 - name: reality_3
   type: vless
-  server: 1.162.18.226
+  server: 1.162.51.106
   port: 37898
   uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
   network: tcp
