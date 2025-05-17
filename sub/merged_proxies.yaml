@@ -143,17 +143,6 @@ proxies:
   protocol: udp
   up: 80
   down: 100
-- name: meta_hysteria_61
-  type: hysteria
-  server: 208.87.243.151
-  port: 17549
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
 - name: meta_hysteria_71
   type: hysteria
   server: 208.87.243.151
@@ -177,45 +166,6 @@ proxies:
   protocol: udp
   up: 80
   down: 100
-- name: meta_hysteria_91
-  type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  auth_str: dongtaiwang.com
-  alpn:
-  - h3
-  sni: www.bing.com
-  skip-cert-verify: true
-  up: 80
-  down: 100
-- name: hysteria_0
-  type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
-  auth_str: dongtaiwang.com
-  up: 80
-  down: 100
-  fast-open: true
-  protocol: udp
-  sni: apple.com
-  skip-cert-verify: true
-  alpn:
-  - h3
-- name: hysteria_1
-  type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
-  auth_str: dongtaiwang.com
-  up: 80
-  down: 100
-  fast-open: true
-  protocol: udp
-  sni: apple.com
-  skip-cert-verify: true
-  alpn:
-  - h3
 - name: hysteria_2
   type: hysteria
   server: 185.22.155.71
@@ -244,48 +194,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: reality_0
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
-- name: reality_1
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
-- name: reality_2
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
 - name: reality_3
   type: vless
   server: 1.162.51.106
@@ -316,17 +224,10 @@ proxy-groups:
   - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
-  - meta_hysteria_61
   - meta_hysteria_71
   - meta_hysteria_81
-  - meta_hysteria_91
-  - hysteria_0
-  - hysteria_1
   - hysteria_2
   - hysteria_3
-  - reality_0
-  - reality_1
-  - reality_2
   - reality_3
 - name: 自动选择
   type: url-test
@@ -344,17 +245,10 @@ proxy-groups:
   - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
-  - meta_hysteria_61
   - meta_hysteria_71
   - meta_hysteria_81
-  - meta_hysteria_91
-  - hysteria_0
-  - hysteria_1
   - hysteria_2
   - hysteria_3
-  - reality_0
-  - reality_1
-  - reality_2
   - reality_3
 rules:
 - DOMAIN,clash.razord.top,DIRECT
