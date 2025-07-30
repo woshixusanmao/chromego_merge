@@ -164,7 +164,7 @@ proxies:
 - name: meta_hysteria_61
   type: hysteria
   server: 208.87.243.151
-  port: 17549
+  port: 38845
   auth_str: dongtaiwang.com
   alpn:
   - h3
@@ -175,7 +175,7 @@ proxies:
 - name: meta_hysteria_71
   type: hysteria
   server: 208.87.243.151
-  port: 17549
+  port: 38845
   auth_str: dongtaiwang.com
   alpn:
   - h3
@@ -186,7 +186,7 @@ proxies:
 - name: meta_hysteria_81
   type: hysteria
   server: 108.181.24.77
-  port: 11512
+  port: 37872
   auth-str: dongtaiwang.com
   sni: apple.com
   skip-cert-verify: true
