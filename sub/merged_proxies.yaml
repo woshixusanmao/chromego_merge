@@ -169,7 +169,7 @@ proxies:
   down: 100
 - name: meta_hysteria_81
   type: hysteria
-  server: 62.210.127.217
+  server: 62.210.10.186
   port: 50011
   auth-str: dongtaiwang.com
   sni: apple.com
@@ -181,7 +181,7 @@ proxies:
   down: 100
 - name: meta_hysteria_91
   type: hysteria
-  server: 62.210.127.217
+  server: 2001:bc8:32d7:158::2
   port: 50011
   auth-str: dongtaiwang.com
   sni: apple.com
@@ -193,8 +193,8 @@ proxies:
   down: 100
 - name: hysteria_0
   type: hysteria
-  server: 109.104.153.91
-  port: 37519
+  server: 109.104.154.97
+  port: 48429
   ports: 10000-20000
   auth_str: dongtaiwang.com
   up: 80
@@ -207,8 +207,8 @@ proxies:
   - h3
 - name: hysteria_1
   type: hysteria
-  server: 109.104.153.91
-  port: 37519
+  server: 109.104.154.97
+  port: 48429
   ports: 10000-20000
   auth_str: dongtaiwang.com
   up: 80
@@ -221,8 +221,8 @@ proxies:
   - h3
 - name: hysteria_2
   type: hysteria
-  server: 109.104.153.91
-  port: 37519
+  server: 109.104.154.97
+  port: 48429
   ports: 10000-20000
   auth_str: dongtaiwang.com
   up: 80
@@ -235,8 +235,8 @@ proxies:
   - h3
 - name: hysteria_3
   type: hysteria
-  server: 109.104.153.91
-  port: 37519
+  server: 109.104.154.97
+  port: 48429
   ports: 10000-20000
   auth_str: dongtaiwang.com
   up: 80
