@@ -63,6 +63,66 @@ proxies:
   protocol: udp
   up: 80
   down: 100
+- name: meta_vmess_31
+  type: vmess
+  server: 104.26.9.22
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta_vmess_32
+  type: vmess
+  server: 172.64.97.235
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta_vmess_33
+  type: vmess
+  server: 104.19.38.28
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta_vmess_34
+  type: vmess
+  server: 104.19.38.48
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
 - name: meta_hysteria_41
   type: hysteria
   server: hy2.dtku47.xyz
@@ -225,6 +285,10 @@ proxy-groups:
   - meta_hysteria_01
   - meta_hysteria_11
   - meta_hysteria_21
+  - meta_vmess_31
+  - meta_vmess_32
+  - meta_vmess_33
+  - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
   - meta_hysteria_61
@@ -247,6 +311,10 @@ proxy-groups:
   - meta_hysteria_01
   - meta_hysteria_11
   - meta_hysteria_21
+  - meta_vmess_31
+  - meta_vmess_32
+  - meta_vmess_33
+  - meta_vmess_34
   - meta_hysteria_41
   - meta_hysteria_51
   - meta_hysteria_61
